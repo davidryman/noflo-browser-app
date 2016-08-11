@@ -9,39 +9,6 @@
     "inports": {},
     "outports": {},
     "groups": [],
-    "processes": {
-        "dom/WriteHtml_m6ti2": {
-            "component": "dom/WriteHtml",
-            "metadata": {
-                "label": "WriteHtml",
-                "x": 108,
-                "y": 36,
-                "width": 72,
-                "height": 72
-            }
-        },
-        "dom/GetElement_e0iio": {
-            "component": "dom/GetElement",
-            "metadata": {
-                "label": "GetElement",
-                "x": -36,
-                "y": 36,
-                "width": 72,
-                "height": 72
-            }
-        }
-    },
-    "connections": [
-        {
-            "src": {
-                "process": "dom/GetElement_e0iio",
-                "port": "element"
-            },
-            "tgt": {
-                "process": "dom/WriteHtml_m6ti2",
-                "port": "container"
-            },
-            "metadata": {}
-        }
-    ]
+    "processes": {},
+    "connections": []
 }
