@@ -16,8 +16,8 @@
             "component": "dom/GetElement",
             "metadata": {
                 "label": "dom/GetElement",
-                "x": 252,
-                "y": 180,
+                "x": 36,
+                "y": 360,
                 "width": 72,
                 "height": 72
             }
@@ -26,7 +26,7 @@
             "component": "core/Output",
             "metadata": {
                 "label": "core/Output",
-                "x": 432,
+                "x": 180,
                 "y": 360,
                 "width": 72,
                 "height": 72
@@ -36,8 +36,8 @@
             "component": "dom/WriteHtml",
             "metadata": {
                 "label": "dom/WriteHtml",
-                "x": 684,
-                "y": 288,
+                "x": 432,
+                "y": 180,
                 "width": 72,
                 "height": 72
             }
@@ -46,8 +46,8 @@
             "component": "dom/GetElement",
             "metadata": {
                 "label": "dom/GetElement",
-                "x": 252,
-                "y": 288,
+                "x": 36,
+                "y": 180,
                 "width": 72,
                 "height": 72
             }
@@ -56,8 +56,8 @@
             "component": "interaction/ListenMouse",
             "metadata": {
                 "label": "interaction/ListenMouse",
-                "x": 432,
-                "y": 180,
+                "x": 180,
+                "y": 216,
                 "width": 72,
                 "height": 72
             }
@@ -66,8 +66,8 @@
             "component": "core/Kick",
             "metadata": {
                 "label": "core/Kick",
-                "x": 576,
-                "y": 180,
+                "x": 288,
+                "y": 216,
                 "width": 72,
                 "height": 72
             }
@@ -76,8 +76,8 @@
             "component": "interaction/ListenMouse",
             "metadata": {
                 "label": "ListenMouse",
-                "x": 288,
-                "y": 432,
+                "x": 36,
+                "y": 36,
                 "width": 72,
                 "height": 72
             }
