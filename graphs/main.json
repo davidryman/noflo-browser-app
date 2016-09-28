@@ -71,6 +71,16 @@
                 "width": 72,
                 "height": 72
             }
+        },
+        "core/Kick_er2we": {
+            "component": "core/Kick",
+            "metadata": {
+                "label": "Kick",
+                "x": 936,
+                "y": 180,
+                "width": 72,
+                "height": 72
+            }
         }
     },
     "connections": [
