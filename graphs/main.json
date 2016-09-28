@@ -71,16 +71,6 @@
                 "width": 72,
                 "height": 72
             }
-        },
-        "interaction/ListenMouse_4m9xw": {
-            "component": "interaction/ListenMouse",
-            "metadata": {
-                "label": "ListenMouse",
-                "x": 36,
-                "y": 36,
-                "width": 72,
-                "height": 72
-            }
         }
     },
     "connections": [
