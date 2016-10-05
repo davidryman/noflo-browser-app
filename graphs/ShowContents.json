@@ -15,8 +15,8 @@
             "component": "core/Output",
             "metadata": {
                 "label": "Output",
-                "x": 828,
-                "y": 288,
+                "x": 864,
+                "y": 252,
                 "width": 72,
                 "height": 72
             }
@@ -26,6 +26,16 @@
             "metadata": {
                 "label": "Accept",
                 "x": 972,
+                "y": 252,
+                "width": 72,
+                "height": 72
+            }
+        },
+        "browser-app/mycomp_e74jl": {
+            "component": "browser-app/mycomp",
+            "metadata": {
+                "label": "mycomp",
+                "x": 1116,
                 "y": 252,
                 "width": 72,
                 "height": 72
