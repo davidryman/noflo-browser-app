@@ -10,6 +10,27 @@
     "inports": {},
     "outports": {},
     "groups": [],
-    "processes": {},
+    "processes": {
+        "core/Output_2gs99": {
+            "component": "core/Output",
+            "metadata": {
+                "label": "Output",
+                "x": 828,
+                "y": 288,
+                "width": 72,
+                "height": 72
+            }
+        },
+        "flow/Accept_a3x62": {
+            "component": "flow/Accept",
+            "metadata": {
+                "label": "Accept",
+                "x": 972,
+                "y": 252,
+                "width": 72,
+                "height": 72
+            }
+        }
+    },
     "connections": []
 }
