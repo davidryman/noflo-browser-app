@@ -1,0 +1,15 @@
+{
+    "caseSensitive": false,
+    "properties": {
+        "name": "ShowContents",
+        "environment": {
+            "type": "noflo-browser"
+        },
+        "icon": ""
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {},
+    "connections": []
+}
