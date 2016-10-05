@@ -9,6 +9,17 @@
     "inports": {},
     "outports": {},
     "groups": [],
-    "processes": {},
+    "processes": {
+        "core/Callback_3gt7t": {
+            "component": "core/Callback",
+            "metadata": {
+                "label": "Callback",
+                "x": 334,
+                "y": 100,
+                "width": 72,
+                "height": 72
+            }
+        }
+    },
     "connections": []
 }
