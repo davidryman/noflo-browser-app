@@ -3,7 +3,8 @@
     "properties": {
         "name": "ShowContents",
         "environment": {
-            "type": "noflo-browser"
+            "type": "noflo-browser",
+            "content": ""
         },
         "icon": ""
     },
